@@ -12,7 +12,7 @@ Me chamo Lorena e sou uma entusiasta da programação que está mergulhando de c
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="CSS3" /></div>
   
-### 📊 GitHub Stats:
+###📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lohnogs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohnogs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
