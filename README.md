@@ -3,8 +3,7 @@
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@lohh_oli) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](www.linkedin.com/in/lorena-de-oliveira-albuquerque-281500323) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@lohh_oli)
 
 ### 🛠 Tecnologias que uso no meu dia 
 
