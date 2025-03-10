@@ -4,7 +4,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@lohh_oli)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/lorena-de-oliveira-albuquerque-281500323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lorena-de-oliveira-albuquerque-281500323)
 
 
 ### 🛠 Tecnologias que uso no meu dia 
