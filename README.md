@@ -1,5 +1,13 @@
 ### Bem-vindos(as), DEVs!
-<div>Me chamo Lorena e sou uma entusiasta da programação, explorando o universo da cibersegurança e do desenvolvimento de software!</div> <h3>Sobre mim</h3> <div>Sou Software Engineer e estou cursando Engenharia de Software. Sempre em busca de aprender mais, gosto de explorar tecnologias voltadas para segurança da informação e sistemas robustos.<br><br> Estou interessada em oportunidades para colaborar em projetos desafiadores em empresas que valorizam inovação, aprendizado contínuo e um ambiente de trabalho inclusivo.<br><br> Quando não estou codificando, você pode me encontrar imersa no mundo dos games, assistindo animes ou descobrindo novos filmes e séries. Sim, sou um pouco nerd nesse aspecto! 🎮<br><br> Vamos conectar e construir algo incrível juntos!</div>
+<div>Me chamo Lorena e sou uma entusiasta da programação, explorando o universo da cibersegurança e do desenvolvimento de software!</div> <h3>Sobre mim</h3> <div>SEntendi! Vou ajustar para manter a seriedade, mas com um toque mais descontraído, como na versão anterior. Aqui está:
+
+Sou Software Engineer e atualmente curso Engenharia de Software, sempre em busca de aprender e me aprimorar. Tenho um interesse especial em tecnologias relacionadas à segurança da informação e no desenvolvimento de sistemas robustos e escaláveis.
+
+Estou interessada em oportunidades para colaborar em projetos desafiadores, em empresas que valorizam a inovação, o aprendizado contínuo e um ambiente de trabalho inclusivo e colaborativo.
+
+Quando não estou codificando, você pode me encontrar explorando mundos virtuais nos games, maratonando animes ou descobrindo novos filmes e séries. Confesso, tenho um lado nerd bem presente! 🎮
+
+Vamos nos conectar e criar algo incrível juntos! 🚀</div>
 
 
 
