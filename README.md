@@ -1,7 +1,5 @@
 ### Bem-vindos(as), DEVs!
-<div>Me chamo Lorena e sou uma entusiasta da programação, explorando o universo da cibersegurança e do desenvolvimento de software!</div> <h3>Sobre mim</h3> <div>SEntendi! Vou ajustar para manter a seriedade, mas com um toque mais descontraído, como na versão anterior. Aqui está:
-
-Sou Software Engineer e atualmente curso Engenharia de Software, sempre em busca de aprender e me aprimorar. Tenho um interesse especial em tecnologias relacionadas à segurança da informação e no desenvolvimento de sistemas robustos e escaláveis.
+<div>Me chamo Lorena e sou uma entusiasta da programação, explorando o universo da cibersegurança e do desenvolvimento de software!</div> <h3>Sobre mim</h3> <div>Sou Software Engineer e atualmente curso Engenharia de Software, sempre em busca de aprender e me aprimorar. Tenho um interesse especial em tecnologias relacionadas à segurança da informação e no desenvolvimento de sistemas robustos e escaláveis.
 
 Estou interessada em oportunidades para colaborar em projetos desafiadores, em empresas que valorizam a inovação, o aprendizado contínuo e um ambiente de trabalho inclusivo e colaborativo.
 
