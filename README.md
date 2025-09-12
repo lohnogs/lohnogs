@@ -10,8 +10,6 @@ Sou Software Engineer e atualmente curso Engenharia de Software, sempre em busca
 Estou aberto a oportunidades para colaborar em projetos desafiadores, especialmente em empresas que priorizam a inovação, o aprendizado contínuo e promovem um ambiente de trabalho inclusivo e colaborativo.
 
 Nos momentos em que não estou codificando, você pode me encontrar explorando mundos virtuais nos games, maratonando animes ou descobrindo novos filmes e séries. Não escondo, tenho um lado nerd bem presente! 🎮
-
-Vamos nos conectar e criar algo incrível juntos! 🚀
 </div>
 
 
