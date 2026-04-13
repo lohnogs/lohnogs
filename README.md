@@ -1,6 +1,6 @@
 <h3>Bem-vindos, DEVs!</h3>
 
-<div>Me chamo Lorena, mas podem me chamar de Loh. Sou desenvolvedor JavaScript com grande interesse pela área de cibersegurança e apaixonado por tudo que envolve tecnologia e inovação!</div>
+<div>Sou desenvolvedor JavaScript com grande interesse pela área de cibersegurança e apaixonado por tudo que envolve tecnologia e inovação!</div>
 
 <h3>Sobre mim</h3>
 
