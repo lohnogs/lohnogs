@@ -18,7 +18,7 @@ Nos momentos em que não estou codificando, você pode me encontrar explorando m
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lohh_oli?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-oliveira-albuquerque-281500323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lohnogs-dev)
 
 
 ### 🛠 Tecnologias que uso no meu dia 
