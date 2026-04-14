@@ -1,4 +1,4 @@
-# Nogueira <3
+# Nogueira 
 Sou desenvolvedor Full Stack com grande interesse por cibersegurança, performance e tudo que envolve tecnologia e inovação.
 
 ---
