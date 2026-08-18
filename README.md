@@ -24,7 +24,7 @@ Fora do código, gosto de games, animes, filmes e tudo que envolve cultura nerd 
 ---
 
 ## Conecte-se comigo
-» LinkedIn  → https:www.linkedin.com/in/kael-tech/ 
+» LinkedIn  → www.linkedin.com/in/kael-albuquerque 
 » Instagram → https://www.instagram.com/k_nogxs/  
 
 ---
