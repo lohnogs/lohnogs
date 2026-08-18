@@ -29,13 +29,4 @@ Fora do código, gosto de games, animes, filmes e tudo que envolve cultura nerd 
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lohnogs&theme=dark&hide_border=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohnogs&theme=dark&hide_border=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lohnogs&theme=dark&hide_border=true)
-
----
-
 ![](https://raw.githubusercontent.com/lohnogs/lohnogs/main/ezgif.com-animated-gif-maker.gif)
